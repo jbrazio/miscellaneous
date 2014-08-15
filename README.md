@@ -1,4 +1,4 @@
-configs
+Configs
 =======
 
-Miscellaneous configuration files
+Miscellaneous configuration files.

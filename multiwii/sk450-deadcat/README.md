@@ -1,13 +1,4 @@
-  Author : João Brázio <joao@brazio.org>
- Version : 20140815
- License : GPLv3
-
-Platform : Multiwii (http://www.multiwii.com/)
- Version : 2.3, r1691
-
-   Frame : Hobbyking SK450 Dead Cat
-      FC : Hobbyking Multiwii PRO (Red)
-
+SK450 Dead Cat
 =======
 
 #Description
