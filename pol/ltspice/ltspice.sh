@@ -9,8 +9,8 @@
 [ "$PLAYONLINUX" = "" ] && exit 0
 source "${PLAYONLINUX}/lib/sources"
 
-TITLE="LT Spice"
-PREFIX="LTSpice"
+TITLE="LT Spice IV"
+PREFIX="LTSpiceIV"
 INSTALLER_DOWNLOAD="http://ltspice.linear-tech.com/software/LTspiceIV.exe"
 
 
