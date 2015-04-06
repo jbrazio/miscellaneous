@@ -3,7 +3,8 @@
 # Last revision : (2015-04-06 13-43)
 # Wine version used : 1.6.2
 # Distribution used to test : Ubuntu 14.04 LTS
-# Author : João Brázio
+# Author : João Brázio <joao@brazio.org>
+# URL : https://github.com/jbrazio/miscellaneous/tree/master/pol/ltspice
 
 [ "$PLAYONLINUX" = "" ] && exit 0
 source "${PLAYONLINUX}/lib/sources"
